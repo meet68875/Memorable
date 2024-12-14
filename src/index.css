@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* custom.css */
+.bg-primary { background-color: #37AFE1; }
+.bg-secondary { background-color: #4CC9FE; }
+.bg-lightYellow { background-color: #F5F4B3; }
+.bg-paleYellow { background-color: #FFFECB; }
+
+.text-primary { color: #37AFE1; }
+.text-secondary { color: #4CC9FE; }
+.hover\:text-primary:hover { color: #37AFE1; }
